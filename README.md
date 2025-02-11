@@ -15,8 +15,8 @@ A real-time web app that translates **English** to **American Sign Language (ASL
 1.  Clone the repo:
 
     ```bash
-    git clone https://github.com/waliapriyanshu/Real_Time_Sign_Language.git
-    cd Real_Time_Sign_Language
+    git clone https://github.com/waliapriyanshu/Real-Time-Sign-Language.git
+    cd Real-Time-Sign-Language
     ```
 
 2.  Install dependencies:
