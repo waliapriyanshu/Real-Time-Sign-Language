@@ -6,7 +6,7 @@ import CamModel from "./CamModel";
 
 import CustomPoseViewer from "./CustomPoseViewer";
 
-import "./app.css";
+import "./App.css";
 
 const APIs = {
   TextToSign: "https://us-central1-sign-mt.cloudfunctions.net/spoken_text_to_signed_pose",
